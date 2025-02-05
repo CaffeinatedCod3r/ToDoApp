@@ -1,0 +1,21 @@
+2025-02-05 17:56:07,499  INFO [main] TestBaseClass:53 - URL is launched
+2025-02-05 17:56:07,650  INFO [main] TestBaseClass:17 - Main Page verified
+2025-02-05 17:56:08,014  INFO [main] TestBaseClass:29 - New Task is added
+2025-02-05 17:56:08,150  INFO [main] TestBaseClass:41 - Number of Active tasks verified
+2025-02-05 17:56:08,413  INFO [main] TestBaseClass:54 - Selected Task is completed
+2025-02-05 17:56:11,961  INFO [main] TestBaseClass:82 - Screenshot taken
+2025-02-05 17:56:22,167  INFO [main] TestBaseClass:83 - All Completed Tasks are deleted
+2025-02-05 17:56:22,360  INFO [main] TestBaseClass:93 - New updated task name = Smoke Test
+2025-02-05 17:56:22,498  INFO [main] TestBaseClass:82 - Screenshot taken
+2025-02-05 17:56:22,706  INFO [main] TestBaseClass:108 - Empty Task not added
+2025-02-05 17:56:22,836  INFO [main] TestBaseClass:119 - Selected Task is deleted
+2025-02-05 17:56:22,853 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2025-02-05 17:56:22,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2025-02-05 17:56:22,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2025-02-05 17:56:22,857 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2025-02-05 17:56:22,857 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Himanshu/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2025-02-05 17:56:23,288 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2025-02-05 17:56:23,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2025-02-05 17:56:23,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2025-02-05 17:56:23,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2025-02-05 17:56:23,288 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Himanshu/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
